@@ -83,7 +83,7 @@ I'm a Software Engineer focused on backend development. I enjoy building scalabl
 ## 🤝 Connect with Me
 
 <p>
-  <a href="www.linkedin.com/in/alanctina-dev">
+  <a href="https://www.linkedin.com/in/alanctina-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <img width="5"/>
