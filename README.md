@@ -10,7 +10,7 @@ I'm a Software Engineer focused on backend development. I enjoy building scalabl
 
 ---
 
-## 🛠️ Tech Stac
+## 🛠️ Tech Stack
 
 ### Languages
 <p>
